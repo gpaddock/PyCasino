@@ -5,9 +5,9 @@ More games modeled in python than just blackjack
 None
 
 ## Building:
-Blackjack
+1. Blackjack
 
 ## Future:
-Roulette
-Slot
-Poker
+1. Roulette
+2. Slot
+3. Poker
